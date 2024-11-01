@@ -1,3 +1,4 @@
-name = "auto-reaction-bot"
+name = "mytest21
+"
 main = "api/worker.js"
 compatibility_date = "2024-06-02"
